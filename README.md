@@ -1,2 +1,2 @@
 # SpringBootIntegrateDubbo
-springBoot 鏁村悎Dubbo锛屽熀浜巠ml鏂囦欢锛屽拰zookeeper闆嗙兢锛屽崟鏈嶅姟璋冪敤鑰呭拰涓や釜鏈嶅姟鎻愪緵鑰呯殑绠�鍗昫emo
+springBoot 整合Dubbo，基于yml文件，和zookeeper集群，单服务调用者和两个服务提供者的简单demo

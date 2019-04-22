@@ -1,2 +1,12 @@
 # SpringBootIntegrateDubbo
-springBoot 整合Dubbo，基于yml文件，和zookeeper集群，单服务调用者和两个服务提供者的简单demo
+springBoot 鏁村悎Dubbo锛屽熀浜巠ml鏂囦欢锛屽拰zookeeper闆嗙兢锛屽崟鏈嶅姟璋冪敤鑰呭拰涓や釜鏈嶅姟鎻愪緵鑰呯殑绠�鍗昫emo
+
+鍚姩 zookeeper
+
+鍚姩 dubbo
+dubbo涓悳绱㈡鎼滅储branchService  鎴栬�卪asterService
+
+鍚姩椤圭洰
+
+璁块棶
+http://localhost:8102/auth/consumer/branch
